@@ -1,0 +1,25 @@
+{
+  "name": "com.pixygon.core",
+  "version": "0.5.0",
+  "displayName": "Pixygon - Core",
+  "description": "Core system for Pixygon",
+  "unity": "2022.1",
+  "unityRelease": "20f1",
+  "documentationUrl": "https://www.pixygon.io/dev/micro",
+  "changelogUrl": "https://www.pixygon.io/dev/micro/changelog",
+  "licensesUrl": "https://www.pixygon.io/dev/micro/license",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+ },
+"hideInEditor": false,
+ "keywords": [
+    "Pixygon",
+    "Debug",
+    "Tool"
+  ],
+  "author": {
+    "name": "Pixygon",
+    "email": "pixygon@pixygon.io",
+    "url": "https://www.pixygon.io"
+  }
+}
