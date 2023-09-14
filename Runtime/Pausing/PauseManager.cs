@@ -12,5 +12,11 @@ namespace Pixygon.Core {
             if(Pause) OnPause?.Invoke();
             else OnUnpause?.Invoke();
         }
+
+        public static void ResetPause() {
+            Pause = false;
+            OnPause = null;
+            OnUnpause = null;
+        }
     }
 }
