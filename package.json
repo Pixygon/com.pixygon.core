@@ -8,9 +8,7 @@
   "documentationUrl": "https://www.pixygon.io/dev/micro",
   "changelogUrl": "https://www.pixygon.io/dev/micro/changelog",
   "licensesUrl": "https://www.pixygon.io/dev/micro/license",
-  "dependencies": {
-    "com.unity.textmeshpro": "3.0.6"
- },
+  "dependencies": {},
 "hideInEditor": false,
  "keywords": [
     "Pixygon",
